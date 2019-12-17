@@ -1,0 +1,2 @@
+const ADD_SMURF = "ADD_SMURF";
+const FETCH_SMURFS = "FETCH_SMURFS";
